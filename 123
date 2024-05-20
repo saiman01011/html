@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang = "en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="se.css">
+    <title>Furniture_2</title>
+  </head>
+
+
+
+
+  <body>
+    <header class='header'>
+      <div class='container'>
+        <div class='nav'>
+          <nav class = "menu">
+            <ul class = "menu-list">
+              <li class = "AAA" >
+                
+                <a class='nav-item' href="@">Furniture</a>
+              </li>
+              <a class='nav-item' href="@">Home</a>
+              <a class='nav-item' href="@">Servecer</a>
+              <a class='nav-item' href="@">Doctors</a>
+              <a class='nav-item' href="@">Products</a>
+              <a class='nav-item' href="@">Gallery</a>
+            </ul>
+          </nav>
+        </div> 
+
+
+
+
+        <div class='header-line'>
+          <div class='header-logo'>
+              <img src="pho.png" alt="">
+          </div>     
+        </div>
+      </div>
+    </header>
+  </body>
+
+
+</html>
