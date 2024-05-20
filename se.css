@@ -1,0 +1,44 @@
+html{
+  box-sizing: border-box;
+}
+*,
+*::after,
+*::before{
+  box-sizing: inherit;
+}
+li {
+  list-style-type: none;
+  /* Убираем маркеры */
+}
+a{
+  text-decoration: none;
+  color :inherit;
+}
+.container{
+  margin:0 auto;
+
+}
+
+
+body {
+  margin:0;
+  font-family: 'Open Sans', sans-serif;
+}
+.header {
+  background-image: url(bg.jpg);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.menu-list{
+  display: flex;
+  align-items: center;
+  gap: 0 65px;
+}
+
+.header-line {
+  padding-top: 122px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
